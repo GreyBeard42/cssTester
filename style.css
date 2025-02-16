@@ -1,6 +1,27 @@
-body {
+input {
+    background-color: #063627;
+    color: #9adbc6;
+    border: 1px #9adbc6 solid;
+    width: 95%;
+    font-family: "Beardy", sans-serif;
+}
+input::placeholder {
+    color: #78bfa8;
+}
+select {
+    background-color: #063627;
+    color: #9adbc6;
+    border: 1px #9adbc6 solid;
+}
+option {
+    background-color: #063627;
+    color: #9adbc6;
+    border: 1px #9adbc6 solid;
+}
+#thing {
+    margin-top: 1%;
     overflow-x: hidden;
-    text-align: center;
+    overflow-y: visible;
     display: grid;
-    justify-content: center;
-  }
+    width: max-content;
+}
