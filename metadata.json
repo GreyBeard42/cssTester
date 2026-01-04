@@ -1,0 +1,15 @@
+{
+  "title": "CSS Tester",
+  "desc": "This JavaScript tool allows you to add CSS effects to any common HTML5 element.",
+
+  "status": "archived",
+  "version": "v1",
+
+  "date": "10/20/2024",
+
+  "tags": [
+    "javascript",
+    "tinker",
+    "tool"
+  ]
+}
